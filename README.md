@@ -9,8 +9,6 @@ O curso de Python do Guanabara é um curso introdutório que cobre desde conceit
 ## Como Utilizar
 
 - Clone este repositório em sua máquina local usando `git clone`.
-- Explore as pastas `exercicios/` e `projetos/` para acessar os códigos-fonte desenvolvidos.
-- Utilize as notas e recursos para complementar seu estudo.
 
 ## Contribuições
 
